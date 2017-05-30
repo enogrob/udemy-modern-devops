@@ -19,8 +19,8 @@ Learn everything you need to about the subject of this `Udemy` project.
 Mastering Docker
 [x] 53. The Course Overview 4:00
 [x] 54. Recollecting Docker Concepts 7:33
-[~] 55. Docker CLI Commands 10:48
-[ ] 56. Scripting Primer 10:42
+[x] 55. Docker CLI Commands 10:48
+[x] 56. Scripting Primer 10:42
 [ ] 57. Composing Primer 10:08
 [ ] 58. Deploying Composed Services 14:12
 [ ] 59. Single Host Scaling 3:58
