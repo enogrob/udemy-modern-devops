@@ -21,7 +21,7 @@ Mastering Docker
 [x] 54. Recollecting Docker Concepts 7:33
 [x] 55. Docker CLI Commands 10:48
 [x] 56. Scripting Primer 10:42
-[ ] 57. Composing Primer 10:08
+[~] 57. Composing Primer 10:08
 [ ] 58. Deploying Composed Services 14:12
 [ ] 59. Single Host Scaling 3:58
 [ ] 60. Bridge Networks 11:25
